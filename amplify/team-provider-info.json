@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-coinapp-dev-205052-authRole",
+      "UnauthRoleArn": "arn:aws:iam::693011598019:role/amplify-coinapp-dev-205052-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::693011598019:role/amplify-coinapp-dev-205052-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-coinapp-dev-205052-deployment",
+      "UnauthRoleName": "amplify-coinapp-dev-205052-unauthRole",
+      "StackName": "amplify-coinapp-dev-205052",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:693011598019:stack/amplify-coinapp-dev-205052/6a153f20-155a-11ec-8b0f-02b40e342c58",
+      "AmplifyAppId": "domlx1gvpny0b"
+    },
+    "categories": {
+      "function": {
+        "cryptofunction": {
+          "deploymentBucketName": "amplify-coinapp-dev-205052-deployment",
+          "s3Key": "amplify-builds/cryptofunction-624a454e394f6d4e6864-build.zip"
+        }
+      }
+    }
+  }
+}
